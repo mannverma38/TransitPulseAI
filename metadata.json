@@ -1,0 +1,6 @@
+{
+  "name": "TransitPulse AI",
+  "description": "Predictive bus tracking and delay alert platform for roadways bus networks across multiple cities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
